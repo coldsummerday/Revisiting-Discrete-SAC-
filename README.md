@@ -73,12 +73,13 @@ This repo is based on the open-source codebase of [tianshou](https://github.com/
 If you find this work useful for your research, please cite [our paper](https://openreview.net/forum?id=EUF2R6VBeU):
 <pre>
 @article{
-      zhou2024revisiting,
-      title={Revisiting Discrete Soft Actor-Critic},
-      author={Haibin Zhou and Tong Wei and Zichuan Lin and Junyou Li and Junliang Xing and Yuanchun Shi and Li Shen and Chao Yu and Deheng Ye},
-      journal={Transactions on Machine Learning Research},
-      year={2024},
-      url={https://openreview.net/forum?id=EUF2R6VBeU},
-      note={}
+zhou2024revisiting,
+title={Revisiting Discrete Soft Actor-Critic},
+author={haibin zhou and Tong Wei and Zichuan Lin and junyou li and Junliang Xing and Yuanchun Shi and Li Shen and Chao Yu and Deheng Ye},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=EUF2R6VBeU},
+note={}
 }
 </pre>
